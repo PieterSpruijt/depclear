@@ -1,2 +1,2 @@
 # depclear
-Clear node modules and node.js cache
+Clear node_modules and node.js cache
